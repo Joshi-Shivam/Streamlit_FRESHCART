@@ -1,2 +1,0 @@
-streamlit==1.46.0
-fpdf==1.7.2
